@@ -11,3 +11,7 @@ The code is commented to help understand the process.
 ## CPU Multithreading
 
 Shows how to use Parallel.ForEach to split CPU bound work over multiple processors
+
+## Client TPS Limiter
+
+I often come across third-party rate limiting (such as processing x number of calls per second). This project shows how to achieve this task easily.
